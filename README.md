@@ -22,3 +22,5 @@
 
  ## How to contribute
  As this is a very small mod, there won't be any properly organised contribution thing. Instead if you want to make a change, simply go make it and then make a pull request. If it is a good change I'll probably accept it.
+
+ I will also label things that would be easy to implement with GoodFirstIssue, so if you want you can go to the issues tab and find something to work on.
